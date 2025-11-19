@@ -1,0 +1,28 @@
+{
+  "name": "poll-vault",
+  "version": "1.0.0",
+  "description": "Privacy-preserving binary voting system with FHE encryption",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.js --network sepolia"
+  },
+  "keywords": [
+    "fhe",
+    "voting",
+    "privacy",
+    "poll",
+    "zama"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@fhevm/hardhat-plugin": "0.3.0-1",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.27.0"
+  },
+  "dependencies": {
+    "@fhevm/solidity": "^0.9.1",
+    "dotenv": "^16.6.1",
+    "ethers": "^6.15.0"
+  }
+}
