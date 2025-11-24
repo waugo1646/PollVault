@@ -7,7 +7,7 @@
 
 const https = require('https');
 
-const VERCEL_URL = 'https://pollvault-2edrrcdb7-songsus-projects.vercel.app';
+const VERCEL_URL = 'https://pollvault.vercel.app';
 
 function fetchUrl(url) {
   return new Promise((resolve, reject) => {

@@ -5,7 +5,7 @@
 [![Solidity](https://img.shields.io/badge/Solidity-0.8.24-blue.svg)](https://soliditylang.org/)
 [![Zama fhEVM](https://img.shields.io/badge/Zama%20fhEVM-0.9.1-green.svg)](https://docs.zama.ai/fhevm)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black.svg)](https://pollvault-2edrrcdb7-songsus-projects.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black.svg)](https://pollvault.vercel.app)
 
 PollVault is a cutting-edge decentralized voting platform that leverages **Fully Homomorphic Encryption (FHE)** to ensure complete vote privacy while maintaining on-chain transparency and verifiability. Built on Zama's fhEVM protocol, PollVault allows users to cast encrypted votes that remain private until the poll creator decides to reveal results.
 
@@ -137,7 +137,7 @@ PollVault (Main Contract)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/PollVault.git
+git clone https://github.com/waugo1646/PollVault.git
 cd PollVault
 ```
 
@@ -317,7 +317,7 @@ node Test/test-contract-deployment.js
 
 ### Live Application
 
-- **Production URL**: https://pollvault-2edrrcdb7-songsus-projects.vercel.app
+- **Production URL**: https://pollvault.vercel.app
 - **Hosting**: Vercel
 - **Build Time**: ~26 seconds
 - **Bundle Size**: ~1MB (gzipped: 313KB)
@@ -449,8 +449,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/PollVault/issues)
-- **Documentation**: [Wiki](https://github.com/your-username/PollVault/wiki)
+- **Issues**: [GitHub Issues](https://github.com/waugo1646/PollVault/issues)
+- **Documentation**: [Wiki](https://github.com/waugo1646/PollVault/wiki)
 - **Zama Docs**: https://docs.zama.ai/fhevm
 - **Twitter**: [@PollVault](https://twitter.com/pollvault)
 
@@ -492,6 +492,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 **Built with ❤️ using Zama fhEVM**
 
-[Live Demo](https://pollvault-2edrrcdb7-songsus-projects.vercel.app) • [Documentation](https://github.com/your-username/PollVault/wiki) • [Report Bug](https://github.com/your-username/PollVault/issues)
+[Live Demo](https://pollvault.vercel.app) • [Documentation](https://github.com/waugo1646/PollVault/wiki) • [Report Bug](https://github.com/waugo1646/PollVault/issues)
 
 </div>
